@@ -1,3 +1,3 @@
-# forkify Project
+# Receipe Project
 
 Recipe application with custom recipe uploads.
